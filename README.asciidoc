@@ -1,0 +1,7 @@
+Cordio - Fun Stuff with Couchbase, Spark, Arduino and ECG data
+==============================================================
+
+:toc:
+
+There is currently not much to see here, only ideas and tasks in my head. Check
+back later or ping me if you are curious.
